@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+body {
+    font: 12px/1.5 Microsoft YaHei,tahoma,arial,Hiragino Sans GB,sans-serif;
+}
+body, 
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6, 
+hr, 
+p, 
+blockquote, 
+dl, 
+dt, 
+dd, 
+ul, 
+ol, 
+li, 
+pre, 
+form, 
+fieldset, 
+legend, 
+button, 
+input, 
+textarea, 
+th, 
+td { 
+    margin:0; padding:0; 
+}
+
+ul, ol{
+    list-style: none;
+}
+a,a:hover {
+    text-decoration: none;
+}
+
+header,
+footer,
+nav,
+section {
+    display: block;
+}
+
+address, 
+cite, 
+dfn, 
+em, 
+var { 
+    font-style:normal; 
+}
+sup { vertical-align:text-top; }
+sub{ vertical-align:text-bottom; }
+fieldset, img { 
+    border:0; 
+}
+table { 
+    border-collapse:collapse; 
+    border-spacing:0; 
+}
